@@ -9,6 +9,10 @@ vaiskot
 
 php
 ![image](https://github.com/user-attachments/assets/39eb23db-02d0-4561-920f-d619883d9a9f)
+![image](https://github.com/user-attachments/assets/91f7fab5-4e34-49df-b4b7-a4eaa88dff3e)
+![image](https://github.com/user-attachments/assets/a3df0284-4217-43dd-a02d-b76dd0ade4ff)
+
+
 
 
 
