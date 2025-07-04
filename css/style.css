@@ -1,0 +1,48 @@
+body {
+    padding-top: 20px; /* Memberi sedikit ruang di atas */
+    background-color: #f8f9fa; /* Warna latar belakang ringan */
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.table img {
+    max-width: 50px;
+    height: auto;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    color: #6c757d;
+}
+
+/* Custom styles for login/register pages */
+.auth-container {
+    width: 100%;
+    max-width: 450px; /* Lebar maksimum kontainer login/register */
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: #fff;
+    margin: auto; /* Pusatkan secara horizontal */
+}
+
+.login-page-body, .register-page-body {
+    background-color: #e9ecef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
